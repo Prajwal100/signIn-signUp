@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding:0;
+}
+.nav{
+    list-style: none;
+    background:green;
+    padding:20px;
+    padding-left:40%;
+}
+.navbar{
+    display:inline;
+    text-align: center;
+    padding:0 20px;
+    margin:auto;
+}
+.navbar a{
+    text-decoration: none;
+    color:white;
+    text-transform: uppercase;
+}
+/* Home page */
+
+.home h1{
+    text-align: center;
+    padding-top:30px;
+}
+/* Sign In Page */
+
+.SignInForm{
+    box-shadow:0 0 10px #ddd;
+    width:40%;
+    margin:50px auto;
+    padding:16px;
+}
+.SignInForm h1{
+    text-align: center;
+    
+}
+.SignInForm h5{
+    text-align: center;
+    font-size: 16px;
+    padding-top:16px;
+}
+.SignInForm input{
+    border:0;
+    width:90%;
+    margin:auto;
+    padding:10px;
+    border-bottom: 1px solid #999;
+    padding-top:30px;
+}
+.SignInForm input::placeholder{
+    font-size: 16px;
+}
+.forget_password{
+    padding:16px 0;
+}
+.SignInForm button{
+    background:green;
+    color:white;
+    padding:10px 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin:10px auto;
+}
+
