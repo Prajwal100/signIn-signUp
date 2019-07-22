@@ -1,9 +1,12 @@
 This is a simple SignIn and SignUp page built by using ReactJs and Firebase.
 
 SignUp Page looks like this:-
+
 ![Signin](https://user-images.githubusercontent.com/29488275/61641377-bdd30e00-acbe-11e9-9a97-e2866172e1e8.PNG)
 
 SignIn Page looks like this:-
+
+![signup](https://user-images.githubusercontent.com/29488275/61641403-c75c7600-acbe-11e9-9c46-ace0e71d0740.PNG)
 ## Available Scripts
 
 In the project directory, you can run:
